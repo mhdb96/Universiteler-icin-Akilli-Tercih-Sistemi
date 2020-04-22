@@ -13,3 +13,7 @@
 * [Veritabanı](software/veritabani.md)
 * [Kullanılacak Teknolojiler](software/kullanilacak-teknolojiler.md)
 
+## About Us
+
+* [🎆 Our Other Projects](https://projects.xdebuggers.com/)
+
