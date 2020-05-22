@@ -13,6 +13,13 @@
 * [Veritabanı](software/veritabani.md)
 * [Kullanılacak Teknolojiler](software/kullanilacak-teknolojiler.md)
 
+## İş Modeli
+
+* [Canvas İş Modeli](is-modeli/canvas-is-modeli.md)
+* [Prototip](is-modeli/prototip/README.md)
+  * [UI Design](is-modeli/prototip/ui-design.md)
+  * [API Documentation](is-modeli/prototip/api-documentation.md)
+
 ## About Us
 
 * [🎆 Our Other Projects](https://projects.xdebuggers.com/)
